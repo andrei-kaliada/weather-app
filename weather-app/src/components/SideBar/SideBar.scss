@@ -1,0 +1,46 @@
+.sideBar{
+    width: 150px;
+    height: 580px;
+    border-right: 1px solid #e3e3e3;
+    box-shadow: 2px 0px 8px #888888;
+    color: #9b9797;
+    &__item{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-bottom: 1px solid #e3e3e3;
+
+        &:nth-child(1){
+            padding: 10px 0;
+        }
+
+        &:nth-child(2){
+            padding: 10px 0;
+        }
+
+        &:nth-child(3){
+            padding: 10px 0;
+        }
+
+        &:nth-child(4){
+            padding: 50px 0;
+        }
+
+        &:nth-child(5){
+            padding: 30px 0;
+        }
+
+        &:nth-child(6){
+            padding: 25px 0;
+        }
+
+        &:nth-child(7){
+            padding: 25px 0;
+        }
+
+        &:nth-child(8){
+            padding: 50px 0;
+            border:0;
+        }
+    }
+}

@@ -1,0 +1,491 @@
+{
+    "days":[
+        {
+            "id":1,
+            "dt_txt":"today",
+            "time": "2020-06-19T17:00-0500",
+            "iconId":801,
+            "iconImg": "day-cloudy",
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 18,
+            "pressure": 1014
+           
+        },
+        {
+            "id":2,
+            "time": "2020-06-19T18:00-0500",
+            "iconId":801,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":3,
+            "time": "2020-06-19T19:00-0500",
+            "iconId":300,
+            "temp": 7,
+            "waste": 0.2,
+            "wind_direction": "south",
+            "wind_speed": 4,
+            "pressure": 1013
+        },
+        {
+            "id":4,
+            "time": "2020-06-19T20:00-0500",
+            "iconId":300,
+            "temp": 7,
+            "waste": 0.4,
+            "wind_direction": "south-west",
+            "wind_speed": 4,
+            "pressure": 1013
+        },
+        {
+            "id":5,
+            "time": "2020-06-19T21:00-0500",
+            "iconId":300,
+            "temp": 7,
+            "waste": 0.9,
+            "wind_direction": "west",
+            "wind_speed": 7,
+            "pressure": 1012
+        },
+        {
+            "id":6,
+            "time": "2020-06-19T22:00-0500",
+            "iconId":300,
+            "temp": 7,
+            "waste": 0.9,
+            "wind_direction": "west",
+            "wind_speed": 7,
+            "pressure": 1012
+        },
+        {
+            "id":7,
+            "time": "2020-06-19T23:00-0500",
+            "iconId":300,
+            "temp": 6,
+            "waste": 0.8,
+            "wind_direction": "west",
+            "wind_speed": 11,
+            "pressure": 1012
+        },
+        {
+            "id":8,
+            "time": "2020-06-19T24:00-0500",
+            "iconId":300,
+            "temp": 7,
+            "waste": 0.4,
+            "wind_direction": "west",
+            "wind_speed": 11,
+            "pressure": 1012
+        },
+        {
+            "id":9,
+            "time": "2020-06-19T01:00-0500",
+            "iconId":300,
+            "temp": 8,
+            "waste": 0.2,
+            "wind_direction": "north-west",
+            "wind_speed": 14,
+            "pressure": 1013
+        },
+        {
+            "id":10,
+            "time": "2020-06-19T02:00-0500",
+            "iconId":300,
+            "temp": 9,
+            "waste": 0.2,
+            "wind_direction": "north-west",
+            "wind_speed": 14,
+            "pressure": 1013
+        },
+        {
+            "id":11,
+            "time": "2020-06-19T03:00-0500",
+            "iconId":300,
+            "temp": 10,
+            "waste": 0.3,
+            "wind_direction": "north-west",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":12,
+            "time": "2020-06-19T04:00-0500",
+            "iconId":300,
+            "temp": 10,
+            "waste": 0.2,
+            "wind_direction": "north-west",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":13,
+            "time": "2020-06-19T05:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0.2,
+            "wind_direction": "north-west",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":14,
+            "time": "2020-06-19T06:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":15,
+            "time": "2020-06-19T07:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":16,
+            "time": "2020-06-19T08:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":17,
+            "time": "2020-06-19T09:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":18,
+            "time": "2020-06-19T10:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":19,
+            "time": "2020-06-19T11:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":20,
+            "time": "2020-06-19T12:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":21,
+            "time": "2020-06-19T13:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":22,
+            "time": "2020-06-19T14:00-0500",
+            "iconId":235,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":23,
+            "time": "2020-06-19T15:00-0500",
+            "iconId":235,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":24,
+            "time": "2020-06-19T16:00-0500",
+            "iconId":235,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":25,
+            "dt_txt":"tomorrow",
+            "time": "2020-06-19T17:00-0500",
+            "iconId":801,
+            "iconImg": "day-cloudy",
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 18,
+            "pressure": 1014
+           
+        },
+        {
+            "id":26,
+            "time": "2020-06-19T18:00-0500",
+            "iconId":801,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":27,
+            "time": "2020-06-19T19:00-0500",
+            "iconId":300,
+            "temp": 7,
+            "waste": 0.2,
+            "wind_direction": "south",
+            "wind_speed": 4,
+            "pressure": 1013
+        },
+        {
+            "id":28,
+            "time": "2020-06-19T20:00-0500",
+            "iconId":300,
+            "temp": 7,
+            "waste": 0.4,
+            "wind_direction": "south-west",
+            "wind_speed": 4,
+            "pressure": 1013
+        },
+        {
+            "id":29,
+            "time": "2020-06-19T21:00-0500",
+            "iconId":300,
+            "temp": 7,
+            "waste": 0.9,
+            "wind_direction": "west",
+            "wind_speed": 7,
+            "pressure": 1012
+        },
+        {
+            "id":30,
+            "time": "2020-06-19T22:00-0500",
+            "iconId":300,
+            "temp": 7,
+            "waste": 0.9,
+            "wind_direction": "west",
+            "wind_speed": 7,
+            "pressure": 1012
+        },
+        {
+            "id":31,
+            "time": "2020-06-19T23:00-0500",
+            "iconId":300,
+            "temp": 6,
+            "waste": 0.8,
+            "wind_direction": "west",
+            "wind_speed": 11,
+            "pressure": 1012
+        },
+        {
+            "id":32,
+            "time": "2020-06-19T24:00-0500",
+            "iconId":300,
+            "temp": 7,
+            "waste": 0.4,
+            "wind_direction": "west",
+            "wind_speed": 11,
+            "pressure": 1012
+        },
+        {
+            "id":33,
+            "time": "2020-06-19T01:00-0500",
+            "iconId":300,
+            "temp": 8,
+            "waste": 0.2,
+            "wind_direction": "north-west",
+            "wind_speed": 14,
+            "pressure": 1013
+        },
+        {
+            "id":34,
+            "time": "2020-06-19T02:00-0500",
+            "iconId":300,
+            "temp": 9,
+            "waste": 0.2,
+            "wind_direction": "north-west",
+            "wind_speed": 14,
+            "pressure": 1013
+        },
+        {
+            "id":35,
+            "time": "2020-06-19T03:00-0500",
+            "iconId":300,
+            "temp": 10,
+            "waste": 0.3,
+            "wind_direction": "north-west",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":36,
+            "time": "2020-06-19T04:00-0500",
+            "iconId":300,
+            "temp": 10,
+            "waste": 0.2,
+            "wind_direction": "north-west",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":37,
+            "time": "2020-06-19T05:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0.2,
+            "wind_direction": "north-west",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":38,
+            "time": "2020-06-19T06:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":39,
+            "time": "2020-06-19T07:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":40,
+            "time": "2020-06-19T08:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":41,
+            "time": "2020-06-19T09:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":42,
+            "time": "2020-06-19T10:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":43,
+            "time": "2020-06-19T11:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":44,
+            "time": "2020-06-19T12:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":45,
+            "time": "2020-06-19T13:00-0500",
+            "iconId":800,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":46,
+            "time": "2020-06-19T14:00-0500",
+            "iconId":235,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":47,
+            "time": "2020-06-19T15:00-0500",
+            "iconId":235,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        },
+        {
+            "id":48,
+            "time": "2020-06-19T16:00-0500",
+            "iconId":235,
+            "temp": 7,
+            "waste": 0,
+            "wind_direction": "south-east",
+            "wind_speed": 4,
+            "pressure": 1014
+        }
+    ] 
+   
+}
